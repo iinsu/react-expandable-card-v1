@@ -2,7 +2,7 @@ export const properties = [
   {
     id: 1,
     imageUrl:
-      "https://blog.dupontregistry.com/wp-content/uploads/2020/08/Parkland_1st-Photo-scaled.jpg",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     price: "$999,999",
     address: "632 Fake Address",
     description:
@@ -14,7 +14,7 @@ export const properties = [
   {
     id: 2,
     imageUrl:
-      "https://blog.dupontregistry.com/wp-content/uploads/2021/02/IMP1-scaled.jpg",
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
     price: "$1,200,000",
     address: "1204 Fake Address",
     description:
